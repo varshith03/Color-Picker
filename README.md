@@ -17,7 +17,7 @@ This is a simple web application that allows users to upload an image and pick c
 - JavaScript
 - EyeDropper API
 
-- ## Deployment
+## Deployment
 
 The Weather App is deployed and accessible online. You can try it out by visiting the following link:
 
