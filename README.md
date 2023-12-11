@@ -17,4 +17,4 @@ This is a simple web application that allows users to upload an image and pick c
 - JavaScript
 - EyeDropper API
 
-- deployed using netlify : https://reliable-dragon-3fcf16.netlify.app/
+- deployed using netlify : https://colourpickertool.netlify.app
