@@ -17,4 +17,10 @@ This is a simple web application that allows users to upload an image and pick c
 - JavaScript
 - EyeDropper API
 
-- deployed using netlify : https://colourpickertool.netlify.app
+- ## Deployment
+
+The Weather App is deployed and accessible online. You can try it out by visiting the following link:
+
+[Live Demo](https://colourpickertool.netlify.app)
+
+Please note that this deployment link is for demonstration purposes, and the app might undergo changes or updates.
